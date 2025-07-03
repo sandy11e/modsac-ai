@@ -1,0 +1,26 @@
+Skip to main Content
+3-hourly Weather forecast.
+Cold wave prediction over India (WRF Model)
+Sat. Based Cyclone Obser. and Realtime Pred. over IO.
+Heat Wave Prediction over India (WRF Model)
+Heavy Rain (>5mm/hr) forecast using NWP model.
+Lightning Forecast
+Monsoon Prediction 2024
+Sea State forecast in terms of Wave Height, Wave period etc.
+3 Days Solar and Wind Forecast for every 15 minutes
+Cloud Burst Nowcast for 6 hours over Western Himalayan region.
+Satellite based nowcast for Heavy rain events for 6 hours.
+AWS Time Series
+Heavy Rain Events
+Let's Interactively Visualise the Earth (LIVE)
+Alerts for Indian States
+Alerts for South East Asian Countries
+Solar Energy
+Rainfall
+Air Quality
+Soil Wetness Index
+ALTIMETER LCS-CORES AND STRETCHING DIRECTIONS
+Ocean Subsurface Fields
+RIP Current Forecast for All-India beaches.
+Ocean State Forecast
+Eddy Currents

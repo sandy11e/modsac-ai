@@ -1,0 +1,30 @@
+fastapi
+uvicorn
+streamlit
+beautifulsoup4
+requests
+sentence-transformers
+transformers
+faiss-cpu
+scikit-learn
+spacy
+networkx
+PyMuPDF
+python-docx
+openpyxl
+fastapi
+uvicorn
+streamlit
+beautifulsoup4
+requests
+sentence-transformers           # embeddings
+transformers>=4.41              # HF models
+faiss-cpu                       # vector DB
+pymupdf                         # PDFs
+python-docx                     # DOCX
+openpyxl                        # XLSX
+pandas                          # XLSX parsing
+spacy                           # (optional) KG
+networkx                        # (optional) KG
+langchain
+langchain-community
